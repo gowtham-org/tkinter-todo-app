@@ -42,7 +42,7 @@ tkinter-todo-app/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/tkinter-todo-app.git
+git clone https://github.com/gowtham-org/tkinter-todo-app.git
 cd tkinter-todo-app
 ```
 
