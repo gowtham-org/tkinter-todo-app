@@ -5,6 +5,10 @@ A feature-rich desktop Todo application built with Python and Tkinter, backed by
 ![Python](https://img.shields.io/badge/Python-3.12-blue) ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green) ![SQLite](https://img.shields.io/badge/DB-SQLite-lightgrey) ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
+## Preview
+
+![Todo Manager Screenshot](screenshots/app-preview.png)
+---
 
 ## Features
 
@@ -22,6 +26,8 @@ A feature-rich desktop Todo application built with Python and Tkinter, backed by
 ---
 
 ## Project Structure
+
+```
 tkinter-todo-app/
 ├── app/
 │   ├── main.py              # Entry point
@@ -31,9 +37,12 @@ tkinter-todo-app/
 │       ├── main_window.py   # Main app layout and logic
 │       ├── task_form.py     # Add / Edit task popup
 │       └── dashboard.py     # Dashboard charts tab
+├── screenshots/
+│   └── app-preview.png
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+```
 
 ---
 
