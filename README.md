@@ -7,7 +7,7 @@ A feature-rich desktop Todo application built with Python and Tkinter, backed by
 ---
 ## Preview
 
-![Todo Manager Screenshot](screenshots/app-preview.png)
+![Todo Manager Screenshot](Screenshots\app-preview.png)
 ---
 
 ## Features
